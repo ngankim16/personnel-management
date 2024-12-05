@@ -1,0 +1,5 @@
+Quản lý
+username: Ngan Tran
+password: password
+Nhân Viên
+password: password
